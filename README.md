@@ -1,3 +1,11 @@
+This icon theme is forked from Papirus icon theme KDE.
+
+It will be slightly customized, improved and extendet to fit for Pij designs.
+
+__________
+Original readme.md : 
+__________
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/master/preview.png" alt="preview"/>
 </p>
